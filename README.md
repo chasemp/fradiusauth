@@ -39,5 +39,7 @@ OK
     libradclient.py 127.0.0.1 radsecret chasemp 1234
     chasemp authenticated
 
+FAIL
+
     libradclient.py 127.0.0.1 radsecret chasemp foo
     Authentication Failed
